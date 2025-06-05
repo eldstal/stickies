@@ -1,0 +1,2 @@
+# stickies
+Ideas for stickers

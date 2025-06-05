@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="112.38133mm"
+   height="42.687885mm"
+   viewBox="0 0 112.38133 42.687885"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="secure_due_to.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:zoom="4.5905223"
+     inkscape:cx="197.90776"
+     inkscape:cy="92.473137"
+     inkscape:window-width="3357"
+     inkscape:window-height="1417"
+     inkscape:window-x="75"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g83232"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       position="4.7738901,40.519124"
+       orientation="1,0"
+       id="guide24878" />
+    <sodipodi:guide
+       position="4.7738901,23.849025"
+       orientation="0,-1"
+       id="guide24880" />
+    <sodipodi:guide
+       position="9.2859198,21.049125"
+       orientation="1,0"
+       id="guide40778" />
+    <sodipodi:guide
+       position="6.182543,6.2327961"
+       orientation="0,-1"
+       id="guide83192" />
+    <sodipodi:guide
+       position="69.411539,17.775066"
+       orientation="1,0"
+       id="guide83194" />
+    <sodipodi:guide
+       position="6.182543,19.385526"
+       orientation="0,-1"
+       id="guide83204" />
+    <sodipodi:guide
+       position="6.182543,15.076946"
+       orientation="0,-1"
+       id="guide83206" />
+    <sodipodi:guide
+       position="6.182543,10.690906"
+       orientation="0,-1"
+       id="guide83208" />
+    <sodipodi:guide
+       position="9.2859201,5.3273761"
+       orientation="0,-1"
+       id="guide105519" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-6.4529139,-29.810622)">
+    <text
+       xml:space="preserve"
+       style="font-size:8px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.264583"
+       x="11.226804"
+       y="39.445679"
+       id="text3290"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';stroke-width:0.264583"
+         x="11.226804"
+         y="39.445679"
+         id="tspan10990">SYSTEM SECURE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.5px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.264583"
+       x="11.226804"
+       y="43.529736"
+       id="text20298"><tspan
+         sodipodi:role="line"
+         id="tspan20296"
+         style="font-size:3.5px;stroke-width:0.264583"
+         x="11.226804"
+         y="43.529736">DUE TO</tspan></text>
+    <g
+       id="g83190">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:18.8;stroke-dasharray:none"
+         id="rect24908"
+         width="2.8173068"
+         height="2.8173058"
+         x="11.226804"
+         y="47.240826"
+         ry="0.85732651"
+         rx="0.85732651" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.5px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.264583"
+         x="15.738834"
+         y="49.628803"
+         id="text33254"><tspan
+           sodipodi:role="line"
+           id="tspan33252"
+           style="font-size:3.5px;stroke-width:0.264583"
+           x="15.738834"
+           y="49.628803">Latest patches (circa 2004)</tspan></text>
+    </g>
+    <g
+       id="g83185"
+       transform="translate(0,-3.4813393)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.5px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.264583"
+         x="15.738834"
+         y="57.494343"
+         id="text40784"><tspan
+           sodipodi:role="line"
+           id="tspan40782"
+           style="font-size:3.5px;stroke-width:0.264583"
+           x="15.738834"
+           y="57.494343">Not in production, probably?</tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:18.8;stroke-dasharray:none"
+         id="rect83153"
+         width="2.8173068"
+         height="2.8173058"
+         x="11.226804"
+         y="55.185669"
+         ry="0.85732651"
+         rx="0.85732651" />
+    </g>
+    <g
+       id="g83180"
+       transform="translate(0,-7.6151209)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.5px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.264583"
+         x="15.738834"
+         y="66.034294"
+         id="text42350"><tspan
+           sodipodi:role="line"
+           id="tspan42348"
+           style="font-size:3.5px;stroke-width:0.264583"
+           x="15.738834"
+           y="66.034294">Airgapped, (except ____________ )</tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:18.8;stroke-dasharray:none"
+         id="rect83157"
+         width="2.8173068"
+         height="2.8173058"
+         x="11.226804"
+         y="63.628036"
+         ry="0.85732651"
+         rx="0.85732651" />
+    </g>
+    <g
+       id="g83175"
+       transform="translate(0,-11.765)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.5px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.264583"
+         x="15.738834"
+         y="74.574249"
+         id="text50912"><tspan
+           sodipodi:role="line"
+           id="tspan50910"
+           style="font-size:3.5px;stroke-width:0.264583"
+           x="15.738834"
+           y="74.574249">No open-source software inside</tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:18.8;stroke-dasharray:none"
+         id="rect83161"
+         width="2.8173068"
+         height="2.8173058"
+         x="11.226804"
+         y="72.163956"
+         ry="0.85732651"
+         rx="0.85732651" />
+    </g>
+    <g
+       id="g83170"
+       transform="translate(0,-15.702511)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.5px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.264583"
+         x="15.738834"
+         y="82.873642"
+         id="text65090"><tspan
+           sodipodi:role="line"
+           id="tspan65088"
+           style="font-size:3.5px;stroke-width:0.264583"
+           x="15.738834"
+           y="82.873642">Hardware too old for SPECTRE</tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:18.8;stroke-dasharray:none"
+         id="rect83165"
+         width="2.8173068"
+         height="2.8173058"
+         x="11.226804"
+         y="80.55957"
+         ry="0.85732651"
+         rx="0.85732651" />
+    </g>
+    <g
+       id="g83202"
+       transform="translate(63.228999)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:18.8;stroke-dasharray:none"
+         id="rect83196"
+         width="2.8173068"
+         height="2.8173058"
+         x="11.226804"
+         y="47.240826"
+         ry="0.85732651"
+         rx="0.85732651" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.5px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.264583"
+         x="15.738834"
+         y="49.628803"
+         id="text83200"><tspan
+           sodipodi:role="line"
+           id="tspan83198"
+           style="font-size:3.5px;stroke-width:0.264583"
+           x="15.738834"
+           y="49.628803">Out of scope</tspan></text>
+    </g>
+    <g
+       id="g83216"
+       transform="translate(63.228999,4.4635017)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:18.8;stroke-dasharray:none"
+         id="rect83210"
+         width="2.8173068"
+         height="2.8173058"
+         x="11.226804"
+         y="47.240826"
+         ry="0.85732651"
+         rx="0.85732651" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.5px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.264583"
+         x="15.738834"
+         y="49.628803"
+         id="text83214"><tspan
+           sodipodi:role="line"
+           id="tspan83212"
+           style="font-size:3.5px;stroke-width:0.264583"
+           x="15.738834"
+           y="49.628803">Obscurity (not in DNS)</tspan></text>
+    </g>
+    <g
+       id="g83224"
+       transform="translate(63.228999,8.7720817)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:18.8;stroke-dasharray:none"
+         id="rect83218"
+         width="2.8173068"
+         height="2.8173058"
+         x="11.226804"
+         y="47.240826"
+         ry="0.85732651"
+         rx="0.85732651" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.5px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.264583"
+         x="15.738834"
+         y="49.628803"
+         id="text83222"><tspan
+           sodipodi:role="line"
+           id="tspan83220"
+           style="font-size:3.5px;stroke-width:0.264583"
+           x="15.738834"
+           y="49.628803">Compliance</tspan></text>
+    </g>
+    <g
+       id="g83232"
+       transform="translate(63.228999,13.158122)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:18.8;stroke-dasharray:none"
+         id="rect83226"
+         width="2.8173068"
+         height="2.8173058"
+         x="11.226804"
+         y="47.240826"
+         ry="0.85732651"
+         rx="0.85732651" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.5px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.264583"
+         x="15.738834"
+         y="49.628803"
+         id="text83230"><tspan
+           sodipodi:role="line"
+           style="font-size:3.5px;stroke-width:0.264583"
+           x="15.738834"
+           y="49.628803"
+           id="tspan84012">Other: ____________</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.5px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.264583"
+         x="16.72105"
+         y="54.013008"
+         id="text86284"><tspan
+           sodipodi:role="line"
+           style="font-size:3.5px;stroke-width:0.264583"
+           x="16.72105"
+           y="54.013008"
+           id="tspan86282">_________________</tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:18.8;stroke-dasharray:none"
+         id="rect104832"
+         width="110.88133"
+         height="41.187885"
+         x="-56.026085"
+         y="17.4025"
+         rx="2.1515198"
+         ry="2.1515198" />
+    </g>
+  </g>
+</svg>

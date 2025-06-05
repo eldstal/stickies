@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="112.38133mm"
-   height="42.687885mm"
-   viewBox="0 0 112.38133 42.687885"
+   width="99.747147mm"
+   height="42.687881mm"
+   viewBox="0 0 99.747145 42.687881"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
@@ -28,54 +28,58 @@
      inkscape:snap-text-baseline="true"
      inkscape:snap-object-midpoints="true"
      inkscape:zoom="3.2459895"
-     inkscape:cx="211.49175"
-     inkscape:cy="23.259472"
+     inkscape:cx="175.75535"
+     inkscape:cy="65.773473"
      inkscape:window-width="3357"
      inkscape:window-height="1417"
      inkscape:window-x="75"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g109469"
+     inkscape:current-layer="layer1"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0">
     <sodipodi:guide
-       position="4.7738901,40.519124"
+       position="4.7738897,40.519119"
        orientation="1,0"
        id="guide24878" />
     <sodipodi:guide
-       position="4.7738901,23.849025"
+       position="4.7738897,23.849021"
        orientation="0,-1"
        id="guide24880" />
     <sodipodi:guide
-       position="9.2859198,21.049125"
+       position="9.2859194,21.049121"
        orientation="1,0"
        id="guide40778" />
     <sodipodi:guide
-       position="6.182543,6.2327961"
+       position="6.1825426,6.2327919"
        orientation="0,-1"
        id="guide83192" />
     <sodipodi:guide
-       position="69.411539,17.775066"
+       position="64.846933,23.849023"
        orientation="1,0"
        id="guide83194" />
     <sodipodi:guide
-       position="6.182543,19.385526"
+       position="6.1825426,19.385522"
        orientation="0,-1"
        id="guide83204" />
     <sodipodi:guide
-       position="6.182543,15.076946"
+       position="6.1825426,15.076942"
        orientation="0,-1"
        id="guide83206" />
     <sodipodi:guide
-       position="6.182543,10.690906"
+       position="6.1825426,10.690902"
        orientation="0,-1"
        id="guide83208" />
     <sodipodi:guide
-       position="9.2859201,5.3273761"
+       position="9.2859197,5.3273719"
        orientation="0,-1"
        id="guide105519" />
+    <sodipodi:guide
+       position="6.1825426,10.690893"
+       orientation="1,0"
+       id="guide120120" />
   </sodipodi:namedview>
   <defs
      id="defs2" />
@@ -83,7 +87,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-6.4529139,-29.810622)">
+     transform="translate(-6.4529142,-29.810621)">
     <text
        xml:space="preserve"
        style="font-size:8px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.264583"
@@ -166,7 +170,7 @@
            id="tspan42348"
            style="font-size:3.5px;stroke-width:0.264583"
            x="15.738834"
-           y="66.034294">Airgapped, (except ____________ )</tspan></text>
+           y="66.034294">Airgapped (except ________ )</tspan></text>
       <rect
          style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:18.8;stroke-dasharray:none"
          id="rect83157"
@@ -179,7 +183,7 @@
     </g>
     <g
        id="g83175"
-       transform="translate(0,-11.765)">
+       transform="translate(58.664392,-20.459629)">
       <text
          xml:space="preserve"
          style="font-size:3.5px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.264583"
@@ -190,7 +194,7 @@
            id="tspan50910"
            style="font-size:3.5px;stroke-width:0.264583"
            x="15.738834"
-           y="74.574249">No open-source software inside</tspan></text>
+           y="74.574249">Proprietary</tspan></text>
       <rect
          style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:18.8;stroke-dasharray:none"
          id="rect83161"
@@ -227,7 +231,7 @@
     </g>
     <g
        id="g83202"
-       transform="translate(63.228999)">
+       transform="translate(58.664392)">
       <rect
          style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:18.8;stroke-dasharray:none"
          id="rect83196"
@@ -251,7 +255,7 @@
     </g>
     <g
        id="g83216"
-       transform="translate(63.228999,4.4635017)">
+       transform="translate(4.8537827e-8,13.158121)">
       <rect
          style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:18.8;stroke-dasharray:none"
          id="rect83210"
@@ -275,7 +279,7 @@
     </g>
     <g
        id="g83224"
-       transform="translate(63.228999,8.7720817)">
+       transform="translate(58.664392,8.7720817)">
       <rect
          style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:18.8;stroke-dasharray:none"
          id="rect83218"
@@ -298,64 +302,61 @@
            y="49.628803">Compliance</tspan></text>
     </g>
     <g
-       id="g83232"
-       transform="translate(63.228999,13.158122)">
-      <g
-         id="g109461">
-        <rect
-           style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:18.8;stroke-dasharray:none"
-           id="rect83226"
-           width="2.8173068"
-           height="2.8173058"
-           x="11.226804"
-           y="47.240826"
-           ry="0.85732651"
-           rx="0.85732651" />
-        <text
-           xml:space="preserve"
-           style="font-size:3.5px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.264583"
+       id="g109461"
+       transform="translate(58.664392,13.158122)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:18.8;stroke-dasharray:none"
+         id="rect83226"
+         width="2.8173068"
+         height="2.8173058"
+         x="11.226804"
+         y="47.240826"
+         ry="0.85732651"
+         rx="0.85732651" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.5px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.264583"
+         x="15.738834"
+         y="49.657623"
+         id="text83230"><tspan
+           sodipodi:role="line"
+           style="font-size:3.5px;stroke-width:0.264583"
            x="15.738834"
            y="49.657623"
-           id="text83230"><tspan
-             sodipodi:role="line"
-             style="font-size:3.5px;stroke-width:0.264583"
-             x="15.738834"
-             y="49.657623"
-             id="tspan84012">Multiple firewalls</tspan></text>
-      </g>
+           id="tspan84012">Multiple firewalls</tspan></text>
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:18.8;stroke-dasharray:none"
+       id="rect104832"
+       width="98.247147"
+       height="41.187881"
+       x="7.2029142"
+       y="30.560621"
+       rx="2.1515198"
+       ry="2.1515198" />
+    <g
+       id="g109469"
+       transform="translate(58.664392,17.616232)">
       <rect
-         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:18.8;stroke-dasharray:none"
-         id="rect104832"
-         width="110.88133"
-         height="41.187885"
-         x="-56.026085"
-         y="17.4025"
-         rx="2.1515198"
-         ry="2.1515198" />
-      <g
-         id="g109469"
-         transform="translate(-1.6205317e-7,4.4581102)">
-        <rect
-           style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:18.8;stroke-dasharray:none"
-           id="rect109463"
-           width="2.8173068"
-           height="2.8173058"
-           x="11.226804"
-           y="47.240826"
-           ry="0.85732651"
-           rx="0.85732651" />
-        <text
-           xml:space="preserve"
-           style="font-size:3.5px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.264583"
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:18.8;stroke-dasharray:none"
+         id="rect109463"
+         width="2.8173068"
+         height="2.8173058"
+         x="11.226804"
+         y="47.240826"
+         ry="0.85732651"
+         rx="0.85732651" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.5px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.264583"
+         x="16.146389"
+         y="49.628803"
+         id="text109467"><tspan
+           sodipodi:role="line"
+           style="font-size:3.5px;stroke-width:0.264583"
            x="16.146389"
            y="49.628803"
-           id="text109467"><tspan
-             sodipodi:role="line"
-             style="font-size:3.5px;stroke-width:0.264583"
-             x="16.146389"
-             y="49.628803"
-             id="tspan109465">_________________</tspan></text>
-      </g>
+           id="tspan109465">_____________</tspan></text>
     </g>
   </g>
 </svg>

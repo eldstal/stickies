@@ -28,8 +28,8 @@
      inkscape:snap-text-baseline="true"
      inkscape:snap-object-midpoints="true"
      inkscape:zoom="3.2459895"
-     inkscape:cx="175.75535"
-     inkscape:cy="65.773473"
+     inkscape:cx="175.60131"
+     inkscape:cy="65.773472"
      inkscape:window-width="3357"
      inkscape:window-height="1417"
      inkscape:window-x="75"
@@ -88,6 +88,15 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-6.4529142,-29.810621)">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:18.8;stroke-dasharray:none"
+       id="rect104832"
+       width="98.247147"
+       height="41.187881"
+       x="7.2029142"
+       y="30.560621"
+       rx="2.1515198"
+       ry="2.1515198" />
     <text
        xml:space="preserve"
        style="font-size:8px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.264583"
@@ -325,15 +334,6 @@
            y="49.657623"
            id="tspan84012">Multiple firewalls</tspan></text>
     </g>
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:18.8;stroke-dasharray:none"
-       id="rect104832"
-       width="98.247147"
-       height="41.187881"
-       x="7.2029142"
-       y="30.560621"
-       rx="2.1515198"
-       ry="2.1515198" />
     <g
        id="g109469"
        transform="translate(58.664392,17.616232)">

@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="53.632011mm"
-   height="38.156273mm"
-   viewBox="0 0 53.632012 38.156273"
+   width="51.632011mm"
+   height="36.156273mm"
+   viewBox="0 0 51.632012 36.156273"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="4.3994184"
-     inkscape:cx="62.394611"
-     inkscape:cy="36.254792"
+     inkscape:zoom="3.1108586"
+     inkscape:cx="104.63349"
+     inkscape:cy="65.737479"
      inkscape:window-width="3357"
      inkscape:window-height="1417"
      inkscape:window-x="75"
@@ -34,25 +34,24 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:snap-smooth-nodes="true"
-     fit-margin-top="1"
-     fit-margin-left="1"
-     fit-margin-right="1"
-     fit-margin-bottom="1" />
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs2" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(2.2970358,1.4105315)">
+     transform="translate(1.2970358,0.41053153)">
     <path
        style="fill:#483aaa;fill-opacity:1;stroke:#867ade;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M -0.5470499,13.893972 2.5890648,29.87473 12.028105,28.674942 v 6.3208 H 49.584976 V 17.380612 L 46.464966,7.6803724 11.641724,12.251053 C 12.975439,9.948992 13.569036,9.3712453 13.626469,6.9206934 13.683901,4.4701415 11.838571,0.34457982 7.045248,0.33947277 2.2519247,0.33436572 0.46969426,4.7107692 0.4640274,6.9206934 0.45836054,9.1306176 2.0086515,12.348608 4.6262871,13.269793 Z"
+       d="M -0.5470499,13.893972 3.5783612,34.99272 H 12.028105 49.584976 V 17.380612 L 46.464966,7.6803724 11.641724,12.251053 C 12.975439,9.948992 13.569036,9.3712453 13.626469,6.9206934 13.683901,4.4701415 11.838571,0.34457982 7.045248,0.33947277 2.2519247,0.33436572 0.46969426,4.7107692 0.4640274,6.9206934 0.45836054,9.1306176 2.0086515,12.348608 4.6262871,13.269793 Z"
        id="path62088"
-       sodipodi:nodetypes="cccccccczzzcc" />
+       sodipodi:nodetypes="ccccccczzzcc" />
     <g
-       aria-label="Pentesting
-since 1984 "
+       aria-label="Pentesting since 1984 "
        transform="rotate(-0.003444)"
        id="text2433"
        style="font-size:3.5px;line-height:0.95;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#867ade;stroke-width:0.264583">
@@ -158,18 +157,22 @@ since 1984 "
        x="9.1733522"
        y="-18.653212"
        ry="0" />
-    <rect
-       style="opacity:1;fill:#867ade;fill-opacity:1;stroke:#867ade;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect20301"
-       width="10.765154"
-       height="9.0210791"
-       x="-32.565487"
-       y="-2.7171605" />
     <circle
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.2;stroke-linecap:round"
        id="path61865"
        cx="7.045248"
        cy="6.9206934"
        r="4.5825095" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.5px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.264583"
+       x="-14.655913"
+       y="43.604649"
+       id="text2455"><tspan
+         sodipodi:role="line"
+         id="tspan2453"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5px;font-family:'C64 Pro Mono';-inkscape-font-specification:'C64 Pro Mono';stroke-width:0.264583"
+         x="-14.655913"
+         y="43.604649">Pentesting (C64 Pro Mono)</tspan></text>
   </g>
 </svg>
